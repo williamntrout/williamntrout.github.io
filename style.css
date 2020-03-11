@@ -1,0 +1,32 @@
+
+body { 
+    background-color: lightblue;
+}
+
+h1 { 
+    color:yellow; 
+    font-size: xx-large;
+}
+
+ul { 
+    color: blue; 
+    font-size: larger;
+}
+
+p {
+    display: inline-block;
+    color: currentColor; 
+    font-size: x-large;
+    font-weight: bolder;
+    font-size: larger; 
+    float: left;
+}
+
+img {
+    display: inline-block;
+    float: left;
+}
+
+div {
+    clear: both;
+}
